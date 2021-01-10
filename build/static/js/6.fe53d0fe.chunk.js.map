@@ -1,0 +1,1 @@
+{"version":3,"sources":["Pages/Post.js"],"names":["Posts"],"mappings":"oHAUeA,UAND,WAEN,OACA","file":"static/js/6.fe53d0fe.chunk.js","sourcesContent":["import React /*{ useEffect, useState }*/from 'react'\r\n//import axios from 'axios'\r\n\r\n\r\nconst Posts = () => {\r\n\r\n        return(\r\n        <h1> Post </h1>\r\n        )\r\n}\r\nexport default Posts;"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,EACI,QAAS,CACT,SAEJ,CAEA,MACI,mDAAA,CACA,qBACJ","file":"3.45736c75.chunk.css","sourcesContent":["* {\r\n    margin: 0;\r\n    padding: 0;\r\n\r\n}\r\n\r\n.body{\r\n    background-image: url('./we.jpg');\r\n    background-size: cover;\r\n}"]}
